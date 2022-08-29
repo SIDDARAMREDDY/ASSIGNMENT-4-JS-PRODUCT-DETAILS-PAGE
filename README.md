@@ -1,11 +1,13 @@
 # ASSIGNMENT-4-JS-PRODUCT-DETAILS-PAGE
 
-![image](https://user-images.githubusercontent.com/109234037/187150503-5fc5a072-b344-4262-9281-05de277cba97.png)
+![image](https://user-images.githubusercontent.com/109234037/187150773-aec2e84f-f690-4b46-8e69-26cf09a0065a.png)
 
-![image](https://user-images.githubusercontent.com/109234037/187150555-cb01b59f-53d6-41df-bcd4-f7a3c4a41175.png)
+![image](https://user-images.githubusercontent.com/109234037/187150806-3fafcfcc-f025-4091-9b8a-b35c9cae7547.png)
 
-![image](https://user-images.githubusercontent.com/109234037/187150602-1bf8200d-aa84-4714-8b4f-97df8997af44.png)
+![image](https://user-images.githubusercontent.com/109234037/187150832-e25584a4-c4e2-4bae-9229-f1a312d9ef3a.png)
 
-![image](https://user-images.githubusercontent.com/109234037/187150630-7e97dac2-207d-4da0-b1e6-f1ccdd9b385c.png)
+![image](https://user-images.githubusercontent.com/109234037/187150852-8a877bc7-f0be-469f-90dd-3b15b036f237.png)
 
-![image](https://user-images.githubusercontent.com/109234037/187150658-175c621f-33e2-4660-8f00-827d43d94f71.png)
+![image](https://user-images.githubusercontent.com/109234037/187150878-b3a5c67a-9bc1-405e-bfae-d049fde1f86c.png)
+
+-------**************************************-----------
